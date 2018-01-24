@@ -1,0 +1,40 @@
+body {
+	background-color: white;
+	border: 29px dotted;
+}
+
+.title {
+	color: pink;
+	font-size: 50px;
+	font-family: "Arial Black";
+}
+
+.titleDiv {
+	background-color: pink;
+}
+
+.dog {
+	background-color: pink;
+	padding: 14px;
+}
+
+a {
+	background-color: orange;
+	border: 2px solid green;
+	margin: 20px;
+	padding: 10px;
+	font-family:cursive;
+	left: 300px;
+}
+.type{ 
+	color: pink;
+	font-size: 50px;
+	font-family: "Arial Black";
+}
+h2{
+	text-align: center;
+}
+.hi{
+	text-align: center;
+	font-size: 50px
+}
